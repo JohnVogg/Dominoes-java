@@ -1,9 +1,3 @@
-/*
- Name: Ioannis Voggelis
- AM: 5733
- */
-
-
 class Board
 {
     private Chain boardChain;
