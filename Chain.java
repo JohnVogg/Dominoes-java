@@ -1,9 +1,3 @@
-/*
- Name: Ioannis Voggelis
- AM: 5733
-*/
-
-
 class Chain
 {
     private ChainElement start; //The left side of the chain
