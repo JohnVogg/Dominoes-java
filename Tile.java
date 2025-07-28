@@ -1,8 +1,3 @@
-/*
- Name: Ioannis Voggelis
-  AM: 5733
- */
-
 class Tile
 {
     private int leftSide;
